@@ -1,2 +1,2 @@
 # williamcompetency
-Yes, I can code a React front-end and use an express.js backend.
+Yes, I can code a React front-end and create an express.js backend.
